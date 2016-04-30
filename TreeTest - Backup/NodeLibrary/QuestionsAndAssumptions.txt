@@ -1,0 +1,5 @@
+﻿There is no consistent way to access children of the various node types. As both the 'NodeDescriber' and 'NodeTransformer' classes
+will require a way to get children and push nodes to their respective stacks (to enable iterative methods of walking the node tree),
+the 'INodesHelper' interface outlines methods to get children, and push nodes (or children nodes) to a stack.
+An instance of 'NodesHelper', inheriting from the 'INodesHelper' interface, will be injected into
+the 'NodeDescriber' and 'NodeTransformer' classes.

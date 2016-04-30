@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NodeLibrary.Node">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Nodes\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NodeLibrary.NoChildrenNode">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Nodes\NoChildrenNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NodeLibrary.SingleChildNode">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Nodes\SingleChildNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NodeLibrary.TwoChildrenNode">
+    <Position X="5.25" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Nodes\TwoChildrenNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NodeLibrary.ManyChildrenNode">
+    <Position X="7.75" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Nodes\ManyChildrenNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NodeLibrary.NodeDescriber">
+    <Position X="0.75" Y="6.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgABgCABAAAAAAAAEAAIAAABAAAACAAIA=</HashCode>
+      <FileName>NodesHelpers\NodeDescriber.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NodeLibrary.NodeTransformer">
+    <Position X="5" Y="6.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAACAoAAAAAAQAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>NodesHelpers\NodeTransformer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NodeLibrary.NodeWriter">
+    <Position X="8.5" Y="6.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>NodesHelpers\NodeWriter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NodeLibrary.NodesHelper">
+    <Position X="11.75" Y="8" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgACAAAAAgAAAAABAAAAAAAAAAQAAAAAAAAACAIAA=</HashCode>
+      <FileName>NodesHelpers\Common\NodesHelper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="NodeLibrary.INodeDescriber">
+    <Position X="0.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NodesHelpers\Interfaces\INodeDescriber.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="NodeLibrary.INodeTransformer">
+    <Position X="5" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NodesHelpers\Interfaces\INodeTransformer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="NodeLibrary.INodeWriter">
+    <Position X="8.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>NodesHelpers\Interfaces\INodeWriter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="NodeLibrary.INodesHelper">
+    <Position X="11.75" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgACAAAAAAAAAAABAAAAAAAAAAQAAAAAAAAACAAAA=</HashCode>
+      <FileName>NodesHelpers\Interfaces\INodesHelper.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

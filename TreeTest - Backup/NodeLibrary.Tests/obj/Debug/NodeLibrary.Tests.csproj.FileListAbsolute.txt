@@ -1,0 +1,72 @@
+c:\users\damian\documents\visual studio 2015\Projects\eCargoTest\NodeLibrary.Tests\bin\Debug\NodeLibrary.Tests.dll
+c:\users\damian\documents\visual studio 2015\Projects\eCargoTest\NodeLibrary.Tests\bin\Debug\NodeLibrary.Tests.pdb
+c:\users\damian\documents\visual studio 2015\Projects\eCargoTest\NodeLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\damian\documents\visual studio 2015\Projects\eCargoTest\NodeLibrary.Tests\bin\Debug\NodeLibrary.dll
+c:\users\damian\documents\visual studio 2015\Projects\eCargoTest\NodeLibrary.Tests\bin\Debug\NodeLibrary.pdb
+c:\users\damian\documents\visual studio 2015\Projects\eCargoTest\NodeLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\damian\documents\visual studio 2015\Projects\eCargoTest\NodeLibrary.Tests\obj\Debug\NodeLibrary.Tests.csprojResolveAssemblyReference.cache
+c:\users\damian\documents\visual studio 2015\Projects\eCargoTest\NodeLibrary.Tests\obj\Debug\NodeLibrary.Tests.dll
+c:\users\damian\documents\visual studio 2015\Projects\eCargoTest\NodeLibrary.Tests\obj\Debug\NodeLibrary.Tests.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoTest - 02\NodeLibrary.Tests\bin\Debug\NodeLibrary.Tests.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoTest - 02\NodeLibrary.Tests\bin\Debug\NodeLibrary.Tests.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoTest - 02\NodeLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoTest - 02\NodeLibrary.Tests\bin\Debug\NodeLibrary.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoTest - 02\NodeLibrary.Tests\bin\Debug\NodeLibrary.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoTest - 02\NodeLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoTest - 02\NodeLibrary.Tests\obj\Debug\NodeLibrary.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoTest - 02\NodeLibrary.Tests\obj\Debug\NodeLibrary.Tests.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoTest - 02\NodeLibrary.Tests\obj\Debug\NodeLibrary.Tests.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargo\NodeLibrary.Tests\bin\Debug\NodeLibrary.Tests.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargo\NodeLibrary.Tests\bin\Debug\NodeLibrary.Tests.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargo\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargo\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargo\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargo\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargo\NodeLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargo\NodeLibrary.Tests\bin\Debug\NodeLibrary.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargo\NodeLibrary.Tests\bin\Debug\NodeLibrary.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargo\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargo\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargo\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargo\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargo\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargo\NodeLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargo\NodeLibrary.Tests\obj\Debug\NodeLibrary.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargo\NodeLibrary.Tests\obj\Debug\NodeLibrary.Tests.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargo\NodeLibrary.Tests\obj\Debug\NodeLibrary.Tests.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\NodeLibrary.Tests.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\NodeLibrary.Tests.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\NodeLibrary.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\NodeLibrary.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\TreeTest - Backup\NodeLibrary.Tests\obj\Debug\NodeLibrary.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\TreeTest - Backup\NodeLibrary.Tests\obj\Debug\NodeLibrary.Tests.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\TreeTest - Backup\NodeLibrary.Tests\obj\Debug\NodeLibrary.Tests.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoZ\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\NodeLibrary.Tests.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoZ\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\NodeLibrary.Tests.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoZ\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoZ\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoZ\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoZ\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoZ\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoZ\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\NodeLibrary.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoZ\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\NodeLibrary.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoZ\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoZ\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoZ\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoZ\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoZ\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoZ\TreeTest - Backup\NodeLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoZ\TreeTest - Backup\NodeLibrary.Tests\obj\Debug\NodeLibrary.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoZ\TreeTest - Backup\NodeLibrary.Tests\obj\Debug\NodeLibrary.Tests.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoZ\TreeTest - Backup\NodeLibrary.Tests\obj\Debug\NodeLibrary.Tests.pdb

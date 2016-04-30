@@ -1,0 +1,15 @@
+c:\users\damian\documents\visual studio 2015\Projects\eCargoTest\NodeLibrary\bin\Debug\NodeLibrary.dll
+c:\users\damian\documents\visual studio 2015\Projects\eCargoTest\NodeLibrary\bin\Debug\NodeLibrary.pdb
+c:\users\damian\documents\visual studio 2015\Projects\eCargoTest\NodeLibrary\obj\Debug\NodeLibrary.csprojResolveAssemblyReference.cache
+c:\users\damian\documents\visual studio 2015\Projects\eCargoTest\NodeLibrary\obj\Debug\NodeLibrary.dll
+c:\users\damian\documents\visual studio 2015\Projects\eCargoTest\NodeLibrary\obj\Debug\NodeLibrary.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoTest - 02\NodeLibrary\bin\Debug\NodeLibrary.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoTest - 02\NodeLibrary\bin\Debug\NodeLibrary.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoTest - 02\NodeLibrary\obj\Debug\NodeLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoTest - 02\NodeLibrary\obj\Debug\NodeLibrary.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoTest - 02\NodeLibrary\obj\Debug\NodeLibrary.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoZ\TreeTest - Backup\NodeLibrary\bin\Debug\NodeLibrary.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoZ\TreeTest - Backup\NodeLibrary\bin\Debug\NodeLibrary.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoZ\TreeTest - Backup\NodeLibrary\obj\Debug\NodeLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoZ\TreeTest - Backup\NodeLibrary\obj\Debug\NodeLibrary.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\eCargoZ\TreeTest - Backup\NodeLibrary\obj\Debug\NodeLibrary.pdb
